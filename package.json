@@ -1,6 +1,7 @@
 {
   "name": "tiendareact",
   "private": true,
+  "homepage": "https://github.com/Jorge-gh/E-commerce/build",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
